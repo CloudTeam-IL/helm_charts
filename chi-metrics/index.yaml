@@ -9,6 +9,6 @@ entries:
     name: chi-metrics
     type: application
     urls:
-    - https://cloudteam-il.github.io/helm_charts/chi-metrics-0.1.0.tgz
+    - https://cloudteam-il.github.io/helm_charts/chi-metrics/chi-metrics-0.1.0.tgz
     version: 0.1.0
 generated: "2022-06-08T10:34:07.668376+03:00"
