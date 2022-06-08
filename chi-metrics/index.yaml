@@ -3,12 +3,12 @@ entries:
   chi-metrics:
   - apiVersion: v2
     appVersion: "0.6"
-    created: "2022-06-08T10:54:54.491801+03:00"
+    created: "2022-06-08T11:11:26.597331+03:00"
     description: a helm chart to deploy CloudHiro kubernets metrics collector.
-    digest: 3aa9334130f6284e1a718110da7566877dd39fc8cf88aa2f71146db5b369b9a6
+    digest: 84f1df510830ae8beab4386c6df5163f2dcf310bf5644f01100e57a4e6e4fbe8
     name: chi-metrics
     type: application
     urls:
     - https://cloudteam-il.github.io/helm_charts/chi-metrics/chi-metrics-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-08T10:54:54.490565+03:00"
+generated: "2022-06-08T11:11:26.596195+03:00"
